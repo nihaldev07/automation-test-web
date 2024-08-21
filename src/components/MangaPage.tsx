@@ -135,7 +135,7 @@ const MangaPage: React.FC = () => {
         />
         <button
           onClick={handleSearch}
-          className="bg-green-500 text-white py-2 px-4 rounded "
+          className="bg-green-500 text-white py-2 px-4 rounded mr-2"
         >
           Search
         </button>
